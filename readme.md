@@ -1,5 +1,5 @@
 # PC-Conv: Unifying Homophily and Heterophily with Two-fold Filtering
-This repository contains a PyTorch implementation of (["PC-Conv: Unifying Homophily and Heterophily with Two-fold Filtering"](https://arxiv.org/abs/2312.14438)).
+This repository contains a PyTorch implementation of "PC-Conv: Unifying Homophily and Heterophily with Two-fold Filtering"([https://arxiv.org/abs/2312.14438](https://arxiv.org/abs/2312.14438)).
 
 ## Requirements
 Tested combination: Python 3.9.6 + [PyTorch 1.9.0](https://pytorch.org/get-started/previous-versions/) + [PyTorch_Geometric 2.0.3](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html) + [PyTorch Sparse 0.6.12](https://github.com/rusty1s/pytorch_sparse)
